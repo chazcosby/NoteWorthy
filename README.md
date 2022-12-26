@@ -1,13 +1,13 @@
-#NoteWorthy
+# NoteWorthy
 NoteWorthy is a simple note-taking application built with React. It allows users to create, edit, and delete notes.
 
-##Features
-<ol><li>Add new notes by filling out the form and clicking "Save"</li>
+## Features
+<ul><li>Add new notes by filling out the form and clicking "Save"</li>
 <li>Edit existing notes by clicking "Edit" and updating the form</li>
 <li>Delete notes by clicking "Delete"</li>
-<li>View a list of all saved notes</li></ol>
+<li>View a list of all saved notes</li></ul>
 
-##Getting Started
+## Getting Started
 To get started with NoteWorthy, clone the repository and install the dependencies:
 
 
@@ -20,6 +20,6 @@ Then, start the development server:
 npm start
 NoteWorthy will be running at http://localhost:3000.
 
-##Dependencies
-React
-CSS (included in the App.css file)
+## Dependencies
+<ul><li>React</li>
+  <li>CSS (included in the App.css file)</li>
