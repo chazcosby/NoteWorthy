@@ -10,16 +10,18 @@ NoteWorthy is a simple note-taking application built with React. It allows users
 ## Getting Started
 To get started with NoteWorthy, clone the repository and install the dependencies:
 
-
+```
 git clone https://github.com/[YOUR_USERNAME]/NoteWorthy.git
 cd NoteWorthy
 npm install
+```
+
 Then, start the development server:
 
-
+```
 npm start
 NoteWorthy will be running at http://localhost:3000.
-
+```
 ## Dependencies
 <ul><li>React</li>
   <li>CSS (included in the App.css file)</li>
