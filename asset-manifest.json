@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoteWorthy/static/css/main.e7d5b2a0.css",
+    "main.js": "/NoteWorthy/static/js/main.ef3bb46d.js",
+    "index.html": "/NoteWorthy/index.html",
+    "main.e7d5b2a0.css.map": "/NoteWorthy/static/css/main.e7d5b2a0.css.map",
+    "main.ef3bb46d.js.map": "/NoteWorthy/static/js/main.ef3bb46d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d5b2a0.css",
+    "static/js/main.ef3bb46d.js"
+  ]
+}
